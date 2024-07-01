@@ -1,1 +1,1 @@
-Fair value model for FX rate equilibria, built using 5 paramaters determined to lag spot rate sufficiently enough to allow L/S opportunities. 
+Fair value model for FX rate equilibria, built using 5 paramaters determined to lag spot rate sufficiently enough to allow L/S opportunities. Backtested using signal of +- 1.5 standard deviations from spot, maximum holding period of 20 days, stop-loss of half expected ROI
